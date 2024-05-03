@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'What I use - Roberth Zambrano';
 export const SITE_DESCRIPTION = 'A curated list of  the tech I use';
-export const HOMEPAGE_URL = 'https://www.linkedin.com/in/roberth-zambrano-506893208/' //este link es de otra página donde se muestra todo sobre uno  
+export const HOMEPAGE_URL = 'you porfolio or web page' //este link es de otra página donde se muestra todo sobre uno  
